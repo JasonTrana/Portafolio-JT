@@ -1,0 +1,7 @@
+/*Remover el fondo blanco*/
+.remove-bg {
+  filter: brightness(1.1);
+  mix-blend-mode: multiply;
+}
+
+/**/
